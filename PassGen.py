@@ -198,7 +198,7 @@ class Ui_MainWindow(object):
     def retranslateUi(self, MainWindow):
         MainWindow.setWindowTitle(QCoreApplication.translate("MainWindow", u"MainWindow", None))
         self.Generate_But.setText(QCoreApplication.translate("MainWindow", u"\u0421\u0413\u0415\u041d\u0415\u0420\u0418\u0420\u041e\u0412\u0410\u0422\u042c", None))
-        self.PasswordLength_Lab.setText(QCoreApplication.translate("MainWindow", u"\u0414\u043b\u0438\u043d\u043d\u0430\u044f \u043f\u0430\u0440\u043e\u043b\u044f: ", None))
+        self.PasswordLength_Lab.setText(QCoreApplication.translate("MainWindow", u"\u0414\u043b\u0438\u043d\u0430 \u043f\u0430\u0440\u043e\u043b\u044f: ", None))
         self.PasswordLengthNumber_Lab.setText(QCoreApplication.translate("MainWindow", u" 1 ", None))
         self.DecryptionTryPerSecond_Lab.setText(QCoreApplication.translate("MainWindow", u"\u0412\u0437\u043b\u043e\u043c(\u043f\u043e\u043f\u044b\u0442\u043a\u0438 \u0432 \u0441\u0435\u043a\u0443\u043d\u0434\u0443): ", None))
         self.DecryptionTryPerSecondNumber_Lab.setText(QCoreApplication.translate("MainWindow", u" 1000000 ", None))
